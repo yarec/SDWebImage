@@ -17,20 +17,20 @@ FOUNDATION_EXPORT const unsigned char SDWebImgVersionString[];
 // In this header, you should import all the public headers of your framework using statements like #import <SDWebImg/PublicHeader.h>
 
 
-#import <WebImage/SDWebImageManager.h>
-#import <WebImage/SDImageCache.h>
-#import <WebImage/UIImageView+WebCache.h>
-#import <WebImage/SDWebImageCompat.h>
-#import <WebImage/UIImageView+HighlightedWebCache.h>
-#import <WebImage/SDWebImageDownloaderOperation.h>
-#import <WebImage/UIButton+WebCache.h>
-#import <WebImage/SDWebImagePrefetcher.h>
-#import <WebImage/UIView+WebCacheOperation.h>
-#import <WebImage/UIImage+MultiFormat.h>
-#import <WebImage/SDWebImageOperation.h>
-#import <WebImage/SDWebImageDownloader.h>
-#import <WebImage/MKAnnotationView+WebCache.h>
-#import <WebImage/SDWebImageDecoder.h>
-#import <WebImage/UIImage+WebP.h>
-#import <WebImage/UIImage+GIF.h>
-#import <WebImage/NSData+ImageContentType.h>
+#import <SDWebImg/SDWebImageManager.h>
+#import <SDWebImg/SDImageCache.h>
+#import <SDWebImg/UIImageView+WebCache.h>
+#import <SDWebImg/SDWebImageCompat.h>
+#import <SDWebImg/UIImageView+HighlightedWebCache.h>
+#import <SDWebImg/SDWebImageDownloaderOperation.h>
+#import <SDWebImg/UIButton+WebCache.h>
+#import <SDWebImg/SDWebImagePrefetcher.h>
+#import <SDWebImg/UIView+WebCacheOperation.h>
+#import <SDWebImg/UIImage+MultiFormat.h>
+#import <SDWebImg/SDWebImageOperation.h>
+#import <SDWebImg/SDWebImageDownloader.h>
+#import <SDWebImg/MKAnnotationView+WebCache.h>
+#import <SDWebImg/SDWebImageDecoder.h>
+#import <SDWebImg/UIImage+WebP.h>
+#import <SDWebImg/UIImage+GIF.h>
+#import <SDWebImg/NSData+ImageContentType.h>
