@@ -1,21 +1,20 @@
 //
-//  WebImage.h
-//  WebImage
+//  SDWebImg.h
+//  SDWebImg
 //
-//  Created by Florent Vilmart on 2015-03-14.
-//  Copyright (c) 2015 Dailymotion. All rights reserved.
+//  Created by r.t on 15/5/15.
+//  Copyright (c) 2015年 Dailymotion. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-//! Project version number for WebImage.
-FOUNDATION_EXPORT double WebImageVersionNumber;
+//! Project version number for SDWebImg.
+FOUNDATION_EXPORT double SDWebImgVersionNumber;
 
-//! Project version string for WebImage.
-FOUNDATION_EXPORT const unsigned char WebImageVersionString[];
+//! Project version string for SDWebImg.
+FOUNDATION_EXPORT const unsigned char SDWebImgVersionString[];
 
-// In this header, you should import all the public headers of your framework using statements like #import <WebImage/PublicHeader.h>
-
+// In this header, you should import all the public headers of your framework using statements like #import <SDWebImg/PublicHeader.h>
 
 
 #import <WebImage/SDWebImageManager.h>
